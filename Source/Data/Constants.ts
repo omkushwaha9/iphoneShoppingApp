@@ -76,6 +76,7 @@ export const PRODUCTS_LIST: Product[] = [
         'Enabled by TrueDepth camera for facial recognition',
     ],
     },
+    // Item5
     {
         id: '5',
         name: 'iPhone SE (Serious Power¹)',
