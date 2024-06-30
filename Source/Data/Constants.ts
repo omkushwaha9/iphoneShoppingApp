@@ -57,6 +57,7 @@ export const PRODUCTS_LIST: Product[] = [
         'Portrait mode with Focus and Depth Control',
     ],
     },
+    // Item4
     {
       id: '4',
       name: 'iPhone 13 (All kinds of Awesom¹)',
