@@ -38,6 +38,7 @@ export const PRODUCTS_LIST: Product[] = [
         'Super-high-resolution photos (24MP and 48MP)',
     ],
     },
+    // Item3
     {
       id: '3',
       name: 'iPhone 14 (As amazing as Ever¹)',
