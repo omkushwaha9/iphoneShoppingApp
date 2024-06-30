@@ -19,7 +19,7 @@ export const PRODUCTS_LIST: Product[] = [
         'Super-high-resolution photos (24MP and 48MP)',
       ],
     },
-    
+    // Item1
     {
       id: '2',
       name: 'iPhone 15 (A total Powerhouse¹)',
