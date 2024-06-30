@@ -1,4 +1,5 @@
 export const PRODUCTS_LIST: Product[] = [
+    //List of Items in the Shopping area.
     {
       id: '1',
       name: 'iPhone 15 Pro (The Ultimate iPhone¹)',
